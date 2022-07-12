@@ -1,0 +1,21 @@
+{
+    "name": "pink-ocean",
+    "displayName": "pink ocean",
+    "description": "A nice pinky ocean theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pink Ocean Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pink Ocean Theme-color-theme.json"
+            }
+        ]
+    }
+}
